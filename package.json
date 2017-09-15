@@ -1,7 +1,7 @@
 {
-    "name": "emoticons",
+    "name": "emoticons-ssr",
     "description": "Parse text emoticons and replace them by graphics.",
-    "version": "0.1.8",
+    "version": "0.2.0",
     "author": {
         "name": "Oleg Slobodskoi",
         "email": "oleg008@gmail.com"
